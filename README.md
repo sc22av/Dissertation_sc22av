@@ -63,6 +63,12 @@ Download the dataset-1 from https://www.kaggle.com/datasets/ankurzing/aspect-bas
 Download the dataset-2 from HTTPS://WWW.KAGGLE.COM/DATASETS/YASSERH/TWITTER-TWEETS-SENTIMENT-DATASET 
 Once downloaded, please change the data_pth in all the .ipynb files based on the path of your file directory 
 
+
+GloVe embedding download:-
+glove.6B.50d.txt from https://nlp.stanford.edu/projects/glove/
+glove.twitter.27B.50d.txt from https://nlp.stanford.edu/projects/glove/
+Note: These files once downloaded need to kept in the same folder as the .ipynb files. 
+
 3. Once this is setup you can run the code using jupyter lab.
 
 4.
