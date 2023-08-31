@@ -93,4 +93,3 @@ cm = np.array([[281, 49, 23],
                [37, 79, 321]])
 
 compute_FPR_spec_metrics(cm)
--x-x-
